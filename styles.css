@@ -1,0 +1,128 @@
+body {
+  background-image: url(./images/bg_image.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.company_name,
+.category {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-weight: 320;
+}
+
+.company_name {
+  font-size: 70px;
+  margin-top: 60px;
+  margin-bottom: 2px;
+}
+
+.category {
+  font-size: 30px;
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+#blur {
+  width: 830px;
+  max-width: 830px;
+  height: 100%;
+  backdrop-filter: blur(60px) brightness(130%);
+  padding: 220px 0 370px 0px;
+  margin: 0 540px;
+  position: relative;
+}
+
+img {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
+.printer {
+  margin: -130px 110px;
+}
+
+.monitor {
+  margin: -126px 370px;
+}
+
+.headset {
+  margin: -135px 620px;
+}
+
+.storage {
+  padding: 125px 110px;
+}
+
+.processor {
+  padding: 125px 375px;
+}
+
+.mouse {
+  padding: 125px 635px;
+}
+
+.printer_name,
+.monitor_name,
+.headset_name,
+.storage_name,
+.processor_name,
+.mouse_name {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 0;
+  position: absolute;
+}
+
+.printer_name {
+  margin: -15px 115px;
+}
+
+.monitor_name {
+  margin: -15px 365px;
+}
+
+.headset_name {
+  margin: -15px 620px;
+}
+
+.storage_name {
+  margin: 235px 115px;
+}
+
+.processor_name {
+  margin: 235px 360px;
+}
+
+.mouse_name {
+  margin: 235px 635px;
+}
+
+.ig,
+.fb,
+.twitter {
+  width: 30px;
+  height: 30px;
+}
+
+.ig {
+  margin: 50px 800px;
+}
+
+.fb {
+  margin: 50px 940px;
+}
+
+.twitter {
+  margin: 50px 1080px;
+  background: none;
+}
+
+.tweet:hover {
+  color: rgb(29, 161, 242);
+}
