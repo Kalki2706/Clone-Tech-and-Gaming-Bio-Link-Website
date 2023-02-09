@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# First_Clone_Website
+Tech-and-Gaming-Bio-Link-Website
 
-Finally the website is ready but I'm still gonna add some features to it.
-=======
-# clone_websites
+After learning responsiveness, will make this website responsive.😀
 
-Making clone of websites by cloning website designs from 'Canva'
->>>>>>> f952dcdff0bde1a6d83ef1cd3be9a2dbaad5fd8f
+#Preview
